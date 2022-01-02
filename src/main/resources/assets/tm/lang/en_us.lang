@@ -1,0 +1,9 @@
+//Items
+item.obsidian_ingot.name=Obsidian Ingot
+item.radioactive_coal.name=Radioactive Coal
+
+//Staffs
+item.large_fireball_staff.name=Large Fireball Staff
+
+//Blocks
+tile.candy_cane.name=Candy Cane

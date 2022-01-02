@@ -1,0 +1,28 @@
+{
+    "variants": {
+        "facing=up":
+        {
+            "model": "tm:candy_cane"
+        },
+        
+        "facing=south":
+        {
+            "model": "tm:candy_cane"
+        },
+        
+        "facing=east":
+        {
+            "model": "tm:candy_cane","y":270
+        },
+        
+        "facing=west":
+        {
+            "model": "tm:candy_cane","y":90
+        },
+        
+        "facing=north":
+        {
+            "model": "tm:candy_cane","y":180
+        }
+    }
+}
